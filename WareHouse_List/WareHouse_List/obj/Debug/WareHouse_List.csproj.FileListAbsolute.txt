@@ -1,0 +1,16 @@
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\bin\Debug\WareHouse_List.exe.config
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\bin\Debug\WareHouse_List.exe
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\bin\Debug\WareHouse_List.pdb
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.Form1.resources
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.Properties.Resources.resources
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.csproj.GenerateResource.cache
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.exe
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.pdb
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.Form2.resources
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.Form3.resources
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.Form4.resources
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.Form5.resources
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.Form6.resources
+C:\Users\Code\Desktop\New folder\WareHouse_List\WareHouse_List\obj\Debug\WareHouse_List.Form7.resources

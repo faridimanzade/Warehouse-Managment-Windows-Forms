@@ -1,0 +1,35 @@
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\bin\Debug\WareHouse_File.exe.config
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\bin\Debug\WareHouse_File.exe
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\bin\Debug\WareHouse_File.pdb
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form1.resources
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form2.resources
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form3.resources
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form4.resources
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form5.resources
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form6.resources
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form7.resources
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Properties.Resources.resources
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.csproj.GenerateResource.cache
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.exe
+C:\Users\Code\source\repos\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.pdb
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\bin\Debug\WareHouse_File.exe.config
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\bin\Debug\WareHouse_File.exe
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\bin\Debug\WareHouse_File.pdb
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form1.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form2.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form3.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form4.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form5.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form6.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Form7.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.Properties.Resources.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.csproj.GenerateResource.cache
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.exe
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.pdb
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_File\WareHouse_File\obj\Debug\WareHouse_File.csproj.CopyComplete

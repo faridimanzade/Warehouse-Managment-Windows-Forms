@@ -1,0 +1,16 @@
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\bin\Debug\WareHouse_MsSql.exe.config
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\bin\Debug\WareHouse_MsSql.exe
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\bin\Debug\WareHouse_MsSql.pdb
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.Form1.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.Form2.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.Form3.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.Form4.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.Form5.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.Form6.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.Form7.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.Properties.Resources.resources
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.csproj.GenerateResource.cache
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.exe
+C:\Users\Code\Desktop\MAIN TASK\WareHouse_MsSql\WareHouse_MsSql\obj\Debug\WareHouse_MsSql.pdb
