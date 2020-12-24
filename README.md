@@ -1,7 +1,7 @@
 # Warehouse-Managment-Windows-Forms
 
 
-The Desktop application of the Warehouse Managment written in ***Windows Froms*** </br>
+The Desktop application of the Warehouse Managment written in ***Windows Forms*** </br>
 This Repo contains 3 different versions of the same program
 - Without storage. In this version ***LINQ*** is the way of handling the data.
 - File storage. In this version ***file*** is used as the storage. ***LINQ*** is the way of handling the data.
